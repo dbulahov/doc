@@ -49,7 +49,7 @@ Connects a cube to a dimension, establishing the relationship between fact table
       <td>1</td>
     </tr>
     <tr>
-      <td colspan="5"><em>Optional custom name for this dimension as it appears in this specific cube context. When specified, this name overrides the dimension's default name for display purposes in this cube, allowing the same dimension to appear with different names in different cubes for contextual clarity.</em></td>
+      <td colspan="5"><em>Optional custom name for this dimension as it appears in this specific cube context. When specified, this name overrides the dimension's default name for display purposes in this cube, allowing the same dimension to appear with different names in same cube. It also allowes to have one dimension with same or different names in different cubes. This helps to provide more contextual clarity.</em></td>
     </tr>
     <tr>
       <td><strong>id</strong></td>
